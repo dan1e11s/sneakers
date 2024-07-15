@@ -15,7 +15,7 @@
    git clone https://github.com/dan1e11s/sneakers.git
    ```
 
-2. Установите зависимости для back и front:
+2. Установите зависимости:
 
    ```bash
    cd /sneakers
